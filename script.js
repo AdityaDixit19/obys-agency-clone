@@ -53,7 +53,6 @@ function cursorAnimation(){
             left:dets.x,
             top:dets.y })
     });
-    
     Shery.makeMagnet("#nav-part2 h5", {
         ease: "cubic-bezier(0.23, 1, 0.320, 1)",
         duration: 1,
