@@ -263,7 +263,7 @@ main, body {
     width: 71vw;
     position: relative;
     left: 28%;
-    background-color: red;
+    /* background-color: red; */
     background-image: url(https://obys.agency/wp-content/uploads/2022/11/Showreel-2022-preview-1.jpg);
     background-size: cover;
     background-position: center;
@@ -929,7 +929,7 @@ main, body {
         width: 100vw;
         position: relative;
         left: 0%;
-        background-color: red;
+        /* background-color: red; */
         background-image: url(https://obys.agency/wp-content/uploads/2022/11/Showreel-2022-preview-1.jpg);
         background-size: cover;
         background-position: center;
